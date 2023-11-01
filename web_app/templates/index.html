@@ -1,0 +1,42 @@
+
+<!DOCTYPE html>
+ <html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Real Estate Forcast</title>
+        <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+      <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+    </head>
+    <body>
+        <h1>Прогноз стоимости недвижимости</h1>
+            <form action='/predict' method="POST">
+            status: <input type='text' name='status' value='active'><br>  
+            baths: <input type='text' name='baths' value='1'><br>
+            fireplace: <input type='text' name='fireplace' value='0'><br>
+            sqft: <input type='text' name='sqft' value='1920'><br>
+            zipcode: <input type='text' name='zipcode' value='46203'><br>
+            state: <input type='text' name='state' value='IN'><br>
+            stories: <input type='text' name='stories' value='1'><br>
+            year_built: <input type='text' name='year_built' value='1940'><br>
+            heating: <input type='text' name='heating' value='1'><br>
+            cooling: <input type='text' name='cooling' value='1'><br>
+            parking: <input type='text' name='parking' value='1'><br>
+            property_add_type: <input type='text' name='property_add_type' value='detached'><br>
+            private_pool: <input type='text' name='private_pool' value='0'><br>
+            school_rating: <input type='text' name='school_rating' value='3'><br>
+            school_min_distance: <input type='text' name='school_min_distance' value='1'><br>
+            beds_area: <input type='text' name='beds_area' value='640'><br>
+            baths_area: <input type='text' name='baths_area' value='863'><br>
+            lotsize_sqft: <input type='text' name='lotsize_sqft' value='10'><br>
+                        
+            <input type='submit' value='Рассчитать'> <br>
+            
+            Стоимость: {{result}} $ <br>
+        </form>
+    </body>
+</html>
+
+</body>
+</html>
