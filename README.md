@@ -2,13 +2,13 @@
 # <center> Модель прогнозирования стоимости жилья для агентства недвижимости </center>
 
 ## Оглавление
-1. [Описание проекта](https://github.com/Agent-66/Real_Estate_Forecast/blob/master/README.md#Описание-проекта)
-2. [Описание данных](https://github.com/Agent-66/Real_Estate_Forecast/blob/master/README.md#Описание-данных)
-3. [Зависимости](https://github.com/Agent-66/Real_Estate_Forecast/blob/master/README.md#Зависимости)
-4. [Установка проекта](https://github.com/Agent-66/Real_Estate_Forecast/blob/master/README.md#Установка-проекта)
-5. [Использование проекта](https://github.com/Agent-66/Real_Estate_Forecast/blob/master/README.md#Использование-проекта)
-6. [Авторы](https://github.com/Agent-66/Real_Estate_Forecast/blob/master/README.md#Авторы)
-7. [Выводы](https://github.com/Agent-66/Real_Estate_Forecast/blob/master/README.md#Выводы)
+1. [Описание проекта](https://github.com/Agent-66/Real_Estate_Forecast/blob/main/README.md#Описание-проекта)
+2. [Описание данных](https://github.com/Agent-66/Real_Estate_Forecast/blob/main/README.md#Описание-данных)
+3. [Зависимости](https://github.com/Agent-66/Real_Estate_Forecast/blob/main/README.md#Зависимости)
+4. [Установка проекта](https://github.com/Agent-66/Real_Estate_Forecast/blob/main/README.md#Установка-проекта)
+5. [Использование проекта](https://github.com/Agent-66/Real_Estate_Forecast/blob/main/README.md#Использование-проекта)
+6. [Авторы](https://github.com/Agent-66/Real_Estate_Forecast/blob/main/README.md#Авторы)
+7. [Выводы](https://github.com/Agent-66/Real_Estate_Forecast/blob/main/README.md#Выводы)
 
 ## Описание проекта
 
@@ -88,7 +88,7 @@ git clone https://github.com/Agent-66/Real_Estate_Forecast
 - real_estate_forecast_part_1.ipynb;
 - real_estate_forecast_part_2.ipynb.
 
-Описание работы веб-сервиса для тестирования ML-модели находится в файле [readme.md](https://github.com/Agent-66/Real_Estate_Forecast/web_app/readme.md).
+Описание работы веб-сервиса для тестирования ML-модели находится в файле [readme.md](./web_app/readme.md).
 
 ## Авторы
 
@@ -106,7 +106,7 @@ git clone https://github.com/Agent-66/Real_Estate_Forecast
 
 На основе самой эффективной модели был разработан веб-сервис, на вход которому поступают данные о некоторой выставленной на продажу недвижимости, а сервис прогнозирует его стоимость.
 
-:arrow_up_small: [к оглавлению](https://github.com/Agent-66/Real_Estate_Forecast/blob/master/README.md#Оглавление)
+:arrow_up_small: [к оглавлению](https://github.com/Agent-66/Real_Estate_Forecast/blob/main/README.md#Оглавление)
 
 
 
