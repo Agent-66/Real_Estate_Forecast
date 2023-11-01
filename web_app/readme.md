@@ -7,12 +7,12 @@
 
 Структура сервиса:
 
-[app_forecast.py](./app_forecast.py/) - исполняемый файл, разворачивает сервер на localhost
-[data_cleaned.csv](./data_cleaned.csv) - исходный датасет, на основе которого строится пресказание ML-модели
-[cat_log_model.py](./cat_log_model.py) - файл с алгоритмом машинного обучения модели CatBoostRegressor
-[cat_log_model.pkl](./cat_log_model.pkl) - сериализованный файл с обученной моделью
-[templates](./templates) - директория с HTML-шаблоном веб-сервиса 
-[catboost_info](./catboost_info) - директория со служебными файлами CatBoostRegressor
+* [app_forecast.py](./app_forecast.py/) - исполняемый файл, разворачивает сервер на localhost
+* [data_cleaned.csv](./data_cleaned.csv) - исходный датасет, на основе которого строится пресказание ML-модели
+* [cat_log_model.py](./cat_log_model.py) - файл с алгоритмом машинного обучения модели CatBoostRegressor
+* [cat_log_model.pkl](./cat_log_model.pkl) - сериализованный файл с обученной моделью
+* [templates](./templates) - директория с HTML-шаблоном веб-сервиса 
+* [catboost_info](./catboost_info) - директория со служебными файлами CatBoostRegressor
 
 Архив с исходным датасетом, на основе которого строится пресказание ML-модели, можно скачать отдельно и распаковать в директорию ./web_app.
 
@@ -31,7 +31,7 @@
 
 ## Авторы
 
-* [Andrey Razin (Agent-66)](https://github.com/Agent-66)
+[Andrey Razin (Agent-66)](https://github.com/Agent-66)
 
 
 

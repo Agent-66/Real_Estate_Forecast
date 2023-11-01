@@ -50,12 +50,12 @@
 
 Структура проекта:
 
-[data](./data/) - директория с датасетами для проекта
-[web_app](./web_app/) - директория с файлами веб-сервиса для для тестирования разработанной ML-модели 
-[real_estate_forecast_part_1.ipynb](./real_estate_forecast_part_1.ipynb) - jupyter-ноутбук, содержащий основной код проекта (1-я часть - предобработка и анализ данных)
-[real_estate_forecast_part_2.ipynb](./real_estate_forecast_part_2.ipynb) - jupyter-ноутбук, содержащий основной код проекта (2-я часть - кодирование данных, моделирование)
-[coded_features.ipynb](./coded_features.ipynb) - jupyter-ноутбук, содержащий варианты кодировки данных, которые были протестированы в ходе работы
-[requirements.txt](./requirements.txt) - файл со списком внешних зависимостей и их версий 
+* [data](./data/) - директория с датасетами для проекта
+* [web_app](./web_app/) - директория с файлами веб-сервиса для для тестирования разработанной ML-модели 
+* [real_estate_forecast_part_1.ipynb](./real_estate_forecast_part_1.ipynb) - jupyter-ноутбук, содержащий основной код проекта (1-я часть - предобработка и анализ данных)
+* [real_estate_forecast_part_2.ipynb](./real_estate_forecast_part_2.ipynb) - jupyter-ноутбук, содержащий основной код проекта (2-я часть - кодирование данных, моделирование)
+* [coded_features.ipynb](./coded_features.ipynb) - jupyter-ноутбук, содержащий варианты кодировки данных, которые были протестированы в ходе работы
+* [requirements.txt](./requirements.txt) - файл со списком внешних зависимостей и их версий 
 
 ## Зависимости
 
